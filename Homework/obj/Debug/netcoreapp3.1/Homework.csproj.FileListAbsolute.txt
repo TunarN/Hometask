@@ -1,0 +1,14 @@
+C:\Users\lenovo\Desktop\evtapsiriqi\Homework\Homework\obj\Debug\netcoreapp3.1\Homework.csproj.AssemblyReference.cache
+C:\Users\lenovo\Desktop\evtapsiriqi\Homework\Homework\obj\Debug\netcoreapp3.1\Homework.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lenovo\Desktop\evtapsiriqi\Homework\Homework\obj\Debug\netcoreapp3.1\Homework.AssemblyInfoInputs.cache
+C:\Users\lenovo\Desktop\evtapsiriqi\Homework\Homework\obj\Debug\netcoreapp3.1\Homework.AssemblyInfo.cs
+C:\Users\lenovo\Desktop\evtapsiriqi\Homework\Homework\obj\Debug\netcoreapp3.1\Homework.csproj.CoreCompileInputs.cache
+C:\Users\lenovo\Desktop\evtapsiriqi\Homework\Homework\bin\Debug\netcoreapp3.1\Homework.exe
+C:\Users\lenovo\Desktop\evtapsiriqi\Homework\Homework\bin\Debug\netcoreapp3.1\Homework.deps.json
+C:\Users\lenovo\Desktop\evtapsiriqi\Homework\Homework\bin\Debug\netcoreapp3.1\Homework.runtimeconfig.json
+C:\Users\lenovo\Desktop\evtapsiriqi\Homework\Homework\bin\Debug\netcoreapp3.1\Homework.runtimeconfig.dev.json
+C:\Users\lenovo\Desktop\evtapsiriqi\Homework\Homework\bin\Debug\netcoreapp3.1\Homework.dll
+C:\Users\lenovo\Desktop\evtapsiriqi\Homework\Homework\bin\Debug\netcoreapp3.1\Homework.pdb
+C:\Users\lenovo\Desktop\evtapsiriqi\Homework\Homework\obj\Debug\netcoreapp3.1\Homework.dll
+C:\Users\lenovo\Desktop\evtapsiriqi\Homework\Homework\obj\Debug\netcoreapp3.1\Homework.pdb
+C:\Users\lenovo\Desktop\evtapsiriqi\Homework\Homework\obj\Debug\netcoreapp3.1\Homework.genruntimeconfig.cache
